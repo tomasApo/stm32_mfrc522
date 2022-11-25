@@ -1,0 +1,1 @@
+/home/tomasinha/Documents/STM32_projects/stm32f3-mfrc522/target/thumbv7em-none-eabihf/debug/stm32f3-mfrc522: /home/tomasinha/Documents/STM32_projects/stm32f3-mfrc522/build.rs /home/tomasinha/Documents/STM32_projects/stm32f3-mfrc522/memory.x /home/tomasinha/Documents/STM32_projects/stm32f3-mfrc522/src/main.rs
